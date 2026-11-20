@@ -18,5 +18,5 @@ the composers are credited here anyway. Each file is the original re-encoded for
 | volcano.mp3 | MAGMA RUN (volcano) | Boss Battle #9 [Metal] (opening + loop) | nene | https://opengameart.org/content/boss-battle-9-metal |
 | swamp.mp3 | GATOR BAYOU (swamp) | Heavy Battle 2 | mintodog | https://opengameart.org/content/heavy-battle-2 |
 
-Sound effects are not files: they are sfxr patches in `game/src/sfx8.js`, rendered in the browser by jsfxr
+Sound effects (since 2026-11-20): CC0 recordings listed in `game/sfx/CREDITS.md`; the few without a recording are sfxr patches in `game/src/sfx8.js`, rendered in the browser by jsfxr
 (https://github.com/chr15m/jsfxr, Unlicense / public domain).
